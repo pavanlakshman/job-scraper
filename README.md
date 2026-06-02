@@ -1,4 +1,4 @@
-# Job Scraper & Application Assistant
+# !!!Job Scraper & Application Assistant
 
 This project is a comprehensive suite of tools designed to automate and enhance the job searching process, primarily focusing on LinkedIn. It scrapes job postings, parses resumes, scores job suitability against a candidate's resume, manages job application statuses, and can even generate custom PDF resumes. The system leverages AI (Google Gemini) for advanced text processing and Supabase for data storage.
 
